@@ -1,6 +1,8 @@
 # task-manager
 
 ## Project setup
+This project makes use of Vue.js to create the task manager component. To store the tasks, it uses MySQL to create and maintain a database. Both are connected with an API made with Node.js and the following packages: Express, MySQL, CORS, and Body-parser.
+
 ```
 npm install
 ```
